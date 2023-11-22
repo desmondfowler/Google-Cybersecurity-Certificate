@@ -1,4 +1,3 @@
-# Professional Statement
 
 NOTE: This is a WIP, this note will be removed when version is ready for production.
 

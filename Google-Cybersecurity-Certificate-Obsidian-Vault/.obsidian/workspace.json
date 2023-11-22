@@ -4,16 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "70c22a1882e9fd8b",
+        "id": "1bcf09175908d86a",
         "type": "tabs",
         "children": [
           {
-            "id": "c42346f8f8739be8",
+            "id": "1441bb392bb7a504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "professional-statement.md",
+                "file": "Foundations of Cybersecurity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fbc2266b58b2120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86e26953da85cd76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac4c60ce7aa27aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +121,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional-statement.md",
+                "file": "Foundations of Cybersecurity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "professional-statement.md",
+                "file": "Foundations of Cybersecurity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +161,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional-statement.md"
+                "file": "Foundations of Cybersecurity.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c42346f8f8739be8",
+  "active": "1441bb392bb7a504",
   "lastOpenFiles": [
-    "professional-statement.md"
+    "CIA Triad.md",
+    "Foundations of Cybersecurity.md",
+    "Hackers.md",
+    "CISSP.md",
+    "Brain Virus.md",
+    "Professional Statement.md",
+    "ILOVEYOU.md",
+    "Introduction to Cybersecurity.md",
+    "Get started with the certificate program.md",
+    "Course 1 - Module 1.md",
+    "Untitled.md",
+    "Course 1 - Module 4.md",
+    "Course 1 - Module 2.md",
+    "Course 1 - Module 3.md"
   ]
 }
